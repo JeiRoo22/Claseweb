@@ -1,0 +1,16 @@
+.fixed-card {
+    min-height: 350px;
+    display: flex;
+    flex-direction: column;
+}
+
+.is-two{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.image img {
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    width: 260px;
+    height: 260px;
+}
